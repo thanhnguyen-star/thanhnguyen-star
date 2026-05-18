@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abraham-kwizera&style=flat-square)
+<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
 # Nguyễn Văn Thanh | Software Engineer
 
@@ -12,8 +12,7 @@
 
 ## 🖥 whoami
 
-Tôi là sinh viên **Saigon Technology University (STU)**  
-và là một Software Engineer với đam mê về:
+I am a student at **Saigon Technology University (STU)** and a Software Engineer.
 
 - 🛡 Lightweight Security Monitoring (Wazuh, Docker, Syslog)
 - 🏗 Linux Infrastructure (Arch Linux / Wayland)
