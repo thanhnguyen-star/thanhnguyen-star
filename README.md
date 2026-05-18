@@ -19,72 +19,37 @@ I am a student at **Saigon Technology University (STU)** and a Software Engineer
 # 🛠 Technical Stack
 
 <table>
-
-<tr>
-<th width="25%">📋 Languages</th>
-<th width="25%">⚛ Frameworks</th>
-<th width="25%">🛡 Security</th>
-<th width="25%">💾 Databases</th>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-<br>
-
-</td>
-
-<td align="center">
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-</td>
-
-<td align="center">
-
-<br><br><br><br><br>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
-</td>
-
-<td align="center">
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-</td>
-
-</tr>
-
+  <tr>
+    <th width="25%">📋 Languages</th>
+    <th width="25%">⚛ Frameworks</th>
+    <th width="25%">💾 Databases</th>
+    <th width="25%">🛠 Dev Tools</th>
+  </tr>
+  <tr>
+    <!-- Languages -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    </td>
+    <!-- Frameworks -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    </td>
+    <!-- Databases -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+    </td>
+    <!-- Security/Tools -->
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
 </table>
 
 </div>
