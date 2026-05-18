@@ -1,59 +1,302 @@
-![Profile Views](https://komarev.com/ghpvc/?username=abraham-kwizera&style=flat-square)
-### Hello World, I'm Abraham KWIZERA 👋 aka IbraH ⭐:
-<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | System Engineer</title>
 
-## I'm a dev Newbie, with vision of being AI passionate, Geek !!
-- ✍ You can find my achievements here.
-- 🌱 I’m currently learning JavaScript and its Frameworks.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything.
-- ⚡  I speak 4 languages (English, French, Kinyarwanda, Kirundi).
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
 
-</br>
+        body{
+            background:#050b16;
+            color:#fff;
+            font-family:'Inter',sans-serif;
+            padding:40px 20px;
+        }
 
-  <summary><b>Technical Info</b></summary>
+        .container{
+            max-width:900px;
+            margin:auto;
+            border:1px solid #1f2937;
+            padding:40px;
+            background:#070d18;
+            border-radius:10px;
+        }
 
-<div align="center">
-<h3>My Technologies</h3> 
+        h1{
+            text-align:center;
+            font-size:42px;
+            margin-bottom:25px;
+            font-weight:700;
+        }
 
-| 🎛️ Operating System     | Version Control | 🎨 Design |
-| ------------- |:-------------:| -----:|
-| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"> |  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"><br> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"> | <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"> |
-  
-| 📋 Languages | 📚 Frameworks, Platforms and Libraries | 💾 Databases  |
-| ------------- |:-------------:| -----:|
-| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"><br><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank"><br><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank">     | <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"> | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">|  
-  
-</div>
+        hr{
+            border:none;
+            height:1px;
+            background:#2b3648;
+            margin:30px 0;
+        }
 
-<div align="center">
-<h3>Learning more</h3>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
-</div>
+        .tags{
+            display:flex;
+            justify-content:center;
+            gap:10px;
+            flex-wrap:wrap;
+            margin-bottom:25px;
+        }
 
-<br>
+        .tag{
+            padding:8px 16px;
+            font-size:13px;
+            font-weight:700;
+            border-radius:4px;
+            text-transform:uppercase;
+            letter-spacing:1px;
+        }
 
-<div align="center">
-<a href="https://github.com/abraham-kwizera">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=abraham-kwizera&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-kwizera&layout=compact&langs_count=7&theme=default"/>
-</a>
-</div>
+        .gray{ background:#4b5563; }
+        .blue{ background:#2563eb; }
+        .purple{ background:#7c3aed; }
+        .white{
+            background:#f3f4f6;
+            color:#000;
+        }
 
-### Lets's Connnect: 
-<br>
-<a href="https://www.linkedin.com/in/abraham-kwizera/" target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://www.instagram.com/kwizera_abraham/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  target="_blank"></a>
-<a href="https://twitter.com/abraham_kwizera" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  target="_blank"></a>
-<a href="https://www.facebook.com/people/Abraham-Kwizera/100010696840030/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"  target="_blank"></a>
+        .social{
+            text-align:center;
+            margin-top:10px;
+        }
 
-<div align="center">
-  <b></b>Thank you for reading this far and don't forget to add me on. See you later!
-<div>
-  
-  ------ 
-  Credit: [abraham-kwizera](https://github.com/abraham-kwizera) 
-  
-  Last Edited on: 14/04/2022
+        .social a{
+            display:inline-block;
+            text-decoration:none;
+            color:#fff;
+            padding:8px 14px;
+            margin:5px;
+            border-radius:4px;
+            font-size:14px;
+            font-weight:600;
+        }
+
+        .gmail{
+            background:#ea4335;
+        }
+
+        .linkedin{
+            background:#0a66c2;
+        }
+
+        .section-title{
+            font-size:28px;
+            margin-bottom:20px;
+            font-weight:700;
+        }
+
+        .quote{
+            color:#9ca3af;
+            font-style:italic;
+            border-left:3px solid #64748b;
+            padding-left:15px;
+            margin-bottom:25px;
+        }
+
+        p{
+            line-height:1.8;
+            font-size:17px;
+            margin-bottom:20px;
+        }
+
+        ul{
+            padding-left:25px;
+        }
+
+        li{
+            margin-bottom:14px;
+            line-height:1.7;
+            font-size:17px;
+        }
+
+        .stack-table{
+            width:100%;
+            border-collapse:collapse;
+            margin-top:20px;
+        }
+
+        .stack-table th,
+        .stack-table td{
+            border:1px solid #334155;
+            padding:18px;
+            vertical-align:top;
+        }
+
+        .stack-table th{
+            background:#0f172a;
+            font-size:18px;
+        }
+
+        .skill{
+            display:inline-block;
+            padding:6px 12px;
+            border-radius:4px;
+            margin:5px 5px 0 0;
+            font-size:13px;
+            font-weight:600;
+        }
+
+        .python{ background:#3776ab; }
+        .cpp{ background:#2563eb; }
+        .bash{ background:#22c55e; }
+
+        .docker{ background:#0ea5e9; }
+        .linux{ background:#eab308; color:#000; }
+        .nginx{ background:#22c55e; }
+
+        .wazuh{ background:#000; }
+        .mitre{ background:#f97316; }
+        .syslog{ background:#3b82f6; }
+
+        .git{ background:#ef4444; }
+        .profile{ background:#64748b; }
+        .anki{ background:#f59e0b; }
+
+        .update{
+            text-align:right;
+            margin-top:25px;
+            color:#e5e7eb;
+            font-style:italic;
+        }
+
+        @media(max-width:768px){
+
+            h1{
+                font-size:30px;
+            }
+
+            .container{
+                padding:25px;
+            }
+
+            .stack-table th,
+            .stack-table td{
+                padding:12px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Ngô Đức Vương | System Engineer</h1>
+
+        <div class="tags">
+            <div class="tag gray">OS</div>
+            <div class="tag blue">ARCH LINUX</div>
+            <div class="tag gray">WM</div>
+            <div class="tag purple">NIRI / HYPRLAND</div>
+            <div class="tag gray">SHELL</div>
+            <div class="tag white">ZSH</div>
+        </div>
+
+        <div class="social">
+            <a href="#" class="gmail">Email</a>
+            <a href="#" class="linkedin">LinkedIn</a>
+        </div>
+
+        <hr>
+
+        <div class="about">
+
+            <div class="section-title">🖥 whoami</div>
+
+            <div class="quote">
+                "Fast and concise. Systems are meant to be built, broken, and optimized."
+            </div>
+
+            <p>
+                Tôi là sinh viên <b>Saigon Technology University (STU)</b> và là một
+                Software Engineer với đam mê sâu sắc về hạ tầng hệ thống và an ninh mạng.
+                Hiện tại, tôi đang tập trung vào:
+            </p>
+
+            <ul>
+                <li>
+                    🛡 <b>LSMP (Lightweight Security Monitoring):</b>
+                    Xây dựng giải pháp giám sát nhẹ cho SME
+                    (Wazuh, Docker, Syslog).
+                </li>
+
+                <li>
+                    🏗 <b>System Infrastructure:</b>
+                    Tối ưu hóa môi trường làm việc trên Linux
+                    (Arch, Wayland).
+                </li>
+
+                <li>
+                    🧠 <b>Algorithms:</b>
+                    Rèn luyện tư duy DSA bằng Python để giải quyết
+                    các bài toán hệ thống.
+                </li>
+            </ul>
+
+        </div>
+
+        <hr>
+
+        <div class="section-title">🛠 Technical Stack</div>
+
+        <table class="stack-table">
+
+            <tr>
+                <th>Languages</th>
+                <th>Infrastructure</th>
+                <th>Security</th>
+                <th>Tools</th>
+            </tr>
+
+            <tr>
+
+                <td>
+                    <span class="skill python">Python</span>
+                    <span class="skill cpp">C++</span>
+                    <span class="skill bash">Bash</span>
+                </td>
+
+                <td>
+                    <span class="skill docker">Docker</span>
+                    <span class="skill linux">Linux</span>
+                    <span class="skill nginx">Nginx</span>
+                </td>
+
+                <td>
+                    <span class="skill wazuh">Wazuh</span>
+                    <span class="skill mitre">MITRE ATT&CK</span>
+                    <span class="skill syslog">Syslog</span>
+                </td>
+
+                <td>
+                    <span class="skill git">Git</span>
+                    <span class="skill profile">Profile</span>
+                    <span class="skill anki">Anki Learning</span>
+                </td>
+
+            </tr>
+
+        </table>
+
+        <div class="update">
+            Last Update: 2026.05.16 🚀
+        </div>
+
+    </div>
+
+</body>
+</html>
