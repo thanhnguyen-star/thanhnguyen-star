@@ -1,12 +1,10 @@
-# 👋 Hello World, I'm Ngô Đức Vương 🚀
+# Nguyễn Văn Thanh | Software Engineer 🚀
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+![Profile Views](https://komarev.com/ghpvc/?username=abraham-kwizera&style=flat-square)
 
-# Ngô Đức Vương | System Engineer
-
-*"Fast and concise. Systems are meant to be built, broken, and optimized."*
+# Nguyễn Văn Thanh | Software Engineer
 
 </div>
 
