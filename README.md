@@ -21,17 +21,17 @@ I am a student at **Saigon Technology University (STU)** and a Software Engineer
 <table>
 
 <tr>
-
-<th>📋 Languages</th>
-<th>📚 Frameworks</th>
-<th>🛡 Security</th>
-<th>💾 Databases</th>
-
+<th width="25%">📋 Languages</th>
+<th width="25%">⚛ Frameworks</th>
+<th width="25%">🛡 Security</th>
+<th width="25%">💾 Databases</th>
 </tr>
 
 <tr>
 
 <td align="center">
+
+<br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -47,13 +47,17 @@ I am a student at **Saigon Technology University (STU)** and a Software Engineer
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
+<br>
+
 </td>
 
 <td align="center">
 
+<br><br><br>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
@@ -61,15 +65,19 @@ I am a student at **Saigon Technology University (STU)** and a Software Engineer
 
 <td align="center">
 
+<br><br><br><br><br>
+
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 </td>
 
 <td align="center">
 
+<br><br><br>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
