@@ -1,302 +1,121 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio | System Engineer</title>
+# 👋 Hello World, I'm Ngô Đức Vương 🚀
 
-    <!-- FONT -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+<div align="center">
 
-    <style>
-        *{
-            margin:0;
-            padding:0;
-            box-sizing:border-box;
-        }
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 
-        body{
-            background:#050b16;
-            color:#fff;
-            font-family:'Inter',sans-serif;
-            padding:40px 20px;
-        }
+# Ngô Đức Vương | System Engineer
 
-        .container{
-            max-width:900px;
-            margin:auto;
-            border:1px solid #1f2937;
-            padding:40px;
-            background:#070d18;
-            border-radius:10px;
-        }
+*"Fast and concise. Systems are meant to be built, broken, and optimized."*
 
-        h1{
-            text-align:center;
-            font-size:42px;
-            margin-bottom:25px;
-            font-weight:700;
-        }
+</div>
 
-        hr{
-            border:none;
-            height:1px;
-            background:#2b3648;
-            margin:30px 0;
-        }
+---
 
-        .tags{
-            display:flex;
-            justify-content:center;
-            gap:10px;
-            flex-wrap:wrap;
-            margin-bottom:25px;
-        }
+## 🖥 whoami
 
-        .tag{
-            padding:8px 16px;
-            font-size:13px;
-            font-weight:700;
-            border-radius:4px;
-            text-transform:uppercase;
-            letter-spacing:1px;
-        }
+Tôi là sinh viên **Saigon Technology University (STU)**  
+và là một Software Engineer với đam mê về:
 
-        .gray{ background:#4b5563; }
-        .blue{ background:#2563eb; }
-        .purple{ background:#7c3aed; }
-        .white{
-            background:#f3f4f6;
-            color:#000;
-        }
+- 🛡 Lightweight Security Monitoring (Wazuh, Docker, Syslog)
+- 🏗 Linux Infrastructure (Arch Linux / Wayland)
+- 🧠 DSA & Algorithms với Python
+- ⚡ Tối ưu hệ thống & automation
 
-        .social{
-            text-align:center;
-            margin-top:10px;
-        }
+---
 
-        .social a{
-            display:inline-block;
-            text-decoration:none;
-            color:#fff;
-            padding:8px 14px;
-            margin:5px;
-            border-radius:4px;
-            font-size:14px;
-            font-weight:600;
-        }
+<div align="center">
 
-        .gmail{
-            background:#ea4335;
-        }
+## ⚙️ Environment
 
-        .linkedin{
-            background:#0a66c2;
-        }
+![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![WM](https://img.shields.io/badge/WM-Hyprland-8A2BE2?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-ZSH-F15A24?style=for-the-badge)
+![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-        .section-title{
-            font-size:28px;
-            margin-bottom:20px;
-            font-weight:700;
-        }
+</div>
 
-        .quote{
-            color:#9ca3af;
-            font-style:italic;
-            border-left:3px solid #64748b;
-            padding-left:15px;
-            margin-bottom:25px;
-        }
+---
 
-        p{
-            line-height:1.8;
-            font-size:17px;
-            margin-bottom:20px;
-        }
+<div align="center">
 
-        ul{
-            padding-left:25px;
-        }
+# 🛠 Technical Stack
 
-        li{
-            margin-bottom:14px;
-            line-height:1.7;
-            font-size:17px;
-        }
+<table>
+<tr>
+<td align="center">
 
-        .stack-table{
-            width:100%;
-            border-collapse:collapse;
-            margin-top:20px;
-        }
+### Languages
 
-        .stack-table th,
-        .stack-table td{
-            border:1px solid #334155;
-            padding:18px;
-            vertical-align:top;
-        }
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-        .stack-table th{
-            background:#0f172a;
-            font-size:18px;
-        }
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-        .skill{
-            display:inline-block;
-            padding:6px 12px;
-            border-radius:4px;
-            margin:5px 5px 0 0;
-            font-size:13px;
-            font-weight:600;
-        }
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-        .python{ background:#3776ab; }
-        .cpp{ background:#2563eb; }
-        .bash{ background:#22c55e; }
+</td>
 
-        .docker{ background:#0ea5e9; }
-        .linux{ background:#eab308; color:#000; }
-        .nginx{ background:#22c55e; }
+<td align="center">
 
-        .wazuh{ background:#000; }
-        .mitre{ background:#f97316; }
-        .syslog{ background:#3b82f6; }
+### Infrastructure
 
-        .git{ background:#ef4444; }
-        .profile{ background:#64748b; }
-        .anki{ background:#f59e0b; }
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-        .update{
-            text-align:right;
-            margin-top:25px;
-            color:#e5e7eb;
-            font-style:italic;
-        }
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-        @media(max-width:768px){
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-            h1{
-                font-size:30px;
-            }
+</td>
 
-            .container{
-                padding:25px;
-            }
+<td align="center">
 
-            .stack-table th,
-            .stack-table td{
-                padding:12px;
-            }
-        }
-    </style>
-</head>
-<body>
+### Security
 
-    <div class="container">
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
 
-        <h1>Ngô Đức Vương | System Engineer</h1>
+![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-red?style=for-the-badge)
 
-        <div class="tags">
-            <div class="tag gray">OS</div>
-            <div class="tag blue">ARCH LINUX</div>
-            <div class="tag gray">WM</div>
-            <div class="tag purple">NIRI / HYPRLAND</div>
-            <div class="tag gray">SHELL</div>
-            <div class="tag white">ZSH</div>
-        </div>
+![Syslog](https://img.shields.io/badge/Syslog-4479A1?style=for-the-badge)
 
-        <div class="social">
-            <a href="#" class="gmail">Email</a>
-            <a href="#" class="linkedin">LinkedIn</a>
-        </div>
+</td>
 
-        <hr>
+<td align="center">
 
-        <div class="about">
+### Tools
 
-            <div class="section-title">🖥 whoami</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-            <div class="quote">
-                "Fast and concise. Systems are meant to be built, broken, and optimized."
-            </div>
+![Anki](https://img.shields.io/badge/Anki-80EA6E?style=for-the-badge)
 
-            <p>
-                Tôi là sinh viên <b>Saigon Technology University (STU)</b> và là một
-                Software Engineer với đam mê sâu sắc về hạ tầng hệ thống và an ninh mạng.
-                Hiện tại, tôi đang tập trung vào:
-            </p>
+![Profile](https://img.shields.io/badge/Profile-111827?style=for-the-badge)
 
-            <ul>
-                <li>
-                    🛡 <b>LSMP (Lightweight Security Monitoring):</b>
-                    Xây dựng giải pháp giám sát nhẹ cho SME
-                    (Wazuh, Docker, Syslog).
-                </li>
+</td>
 
-                <li>
-                    🏗 <b>System Infrastructure:</b>
-                    Tối ưu hóa môi trường làm việc trên Linux
-                    (Arch, Wayland).
-                </li>
+</tr>
+</table>
 
-                <li>
-                    🧠 <b>Algorithms:</b>
-                    Rèn luyện tư duy DSA bằng Python để giải quyết
-                    các bài toán hệ thống.
-                </li>
-            </ul>
+</div>
 
-        </div>
+---
 
-        <hr>
+<div align="center">
 
-        <div class="section-title">🛠 Technical Stack</div>
+# 🌐 Connect With Me
 
-        <table class="stack-table">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-            <tr>
-                <th>Languages</th>
-                <th>Infrastructure</th>
-                <th>Security</th>
-                <th>Tools</th>
-            </tr>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 
-            <tr>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
-                <td>
-                    <span class="skill python">Python</span>
-                    <span class="skill cpp">C++</span>
-                    <span class="skill bash">Bash</span>
-                </td>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-                <td>
-                    <span class="skill docker">Docker</span>
-                    <span class="skill linux">Linux</span>
-                    <span class="skill nginx">Nginx</span>
-                </td>
+</div>
 
-                <td>
-                    <span class="skill wazuh">Wazuh</span>
-                    <span class="skill mitre">MITRE ATT&CK</span>
-                    <span class="skill syslog">Syslog</span>
-                </td>
+---
 
-                <td>
-                    <span class="skill git">Git</span>
-                    <span class="skill profile">Profile</span>
-                    <span class="skill anki">Anki Learning</span>
-                </td>
+<div align="center">
 
-            </tr>
+### 🚀 Last Update: 2026.05.16
 
-        </table>
-
-        <div class="update">
-            Last Update: 2026.05.16 🚀
-        </div>
-
-    </div>
-
-</body>
-</html>
+</div>
